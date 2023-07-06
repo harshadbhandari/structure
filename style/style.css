@@ -24,6 +24,18 @@ main {
     gap: 4.125rem;
     background: #151515;
 }
+/* logo name */
+#logo-name{
+    font-size: 1.8rem;
+}
+
+#main-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
 
 /* navbar */
 nav ul li a {
